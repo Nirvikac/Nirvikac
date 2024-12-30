@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Nirvikac
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Web Developmet
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hey, I'm Nirvik Acharya!
+🚀 Code Explorer | Tech Enthusiast | Open Source Contributor
 
-<!---
-Nirvikac/Nirvikac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I turn ideas into code and love building innovative solutions. Passionate about AI, web development, and collaboration. Let's create something extraordinary together!
+
+🛠️ Tech Stack:
+Languages: Python, JavaScript
+Frameworks: React, Node.js, Django
+Tools: Git, Docker, AWS
+🌱 Currently:
+Building next-gen web apps and exploring the world of machine learning.
+
+💬 Let’s Connect:
+www.linkedin.com/in/nirvik-acharya-2585022ab
+
