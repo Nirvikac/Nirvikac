@@ -10,6 +10,4 @@ Tools: Git, Docker, AWS
 🌱 Currently:
 Building next-gen web apps and exploring the world of machine learning.
 
-💬 Let’s Connect:
-www.linkedin.com/in/nirvik-acharya-2585022ab
-
+💬 Let’s Connect
